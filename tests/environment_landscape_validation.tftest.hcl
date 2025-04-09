@@ -1,5 +1,5 @@
 provider "tfe" {
-  organization = "<replace with your HCP Terraform organization name>"
+  organization = "sierra"
 }
  
 variables {
